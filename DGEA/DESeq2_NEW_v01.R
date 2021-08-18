@@ -4,7 +4,6 @@
 
 # Author: Hannes Reinwald
 # Contact: hannes.reinwald@ime.fraunhofer.de
-#setwd("~/R/Rplayaround/citral/")
 
 ### README ### -----------------------------------------------------------
 # This script is desgined to run DESeq2 normalization and statistical testing on RNAseq experiments
